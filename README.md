@@ -24,11 +24,17 @@ Proyek ini merupakan latihan implementasi Flexbox CSS untuk membuat landing page
 ---
 # 🛠️ Teknologi yang Digunakan
 Teknologi	Kegunaan
+---
 HTML5	Struktur semantik website
+---
 CSS3	Styling dan layout
+---
 Flexbox	Sistem layout utama
+---
 Media Queries	Responsive breakpoints
+---
 CSS Variables	Warna dan spacing konsisten
+---
 Google Fonts	Typography
 ---
 
@@ -53,7 +59,6 @@ cd LatihanLandingPage_ResponsifDenganFlexbox
 ---
 
 # 👤 Author
-
 Rangga Utama
 
     GitHub: @ranggautama47
